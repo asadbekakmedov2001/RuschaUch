@@ -55,21 +55,21 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
     }
 
     private void initial() {
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm1,"Тема 1. ОБЩАЯ ХАРАКТЕРИСТИКА ЛИТЕРАТУРЫ XIX ВЕКА","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm2,"Тема 2. ОСОБЕННОСТИ РАЗВИТИЯ РОМАНТИЗМА В НЕМЕЦКОЙ ЛИТЕРАТУРЕ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm3,"Тема 3. ОСОБЕННОСТИ РОМАНТИЗМА В АНГЛИЙСКОЙ ЛИТЕРАТУРЕ.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"Тема 4. ОСОБЕННОСТИ РАЗВИТИЯ ФРАНЦУЗСКОГО РОМАНТИЗМА.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/fan_dasturi.pdf"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm5,"Тема 5. АМЕРИКАНСКИЙ РОМАНТИЗМ.                       ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm6,"Тема 6. ФРАНЦУЗСКАЯ РЕАЛИСТИЧЕСКАЯ ЛИТЕРАТУРА XIX ВЕКА.  ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm7,"Тема 7. ТВОРЧЕСТВО ОНОРЕ ДЕ БАЛЬЗАКА.                  ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm8,"Тема 8. НЕМЕЦКАЯ ЛИТЕРАТУРА 30-40-Х ГОДОВ XIX ВЕКА.    ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm9,"Тема 9. ПУТИ РАЗВИТИЯ ФРАНЦУЗСКОЙ ЛИТЕРАТУРЫ ВО ВТОРОЙ ПОЛОВИНЕ XIX ВЕКА.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm10,"Тема 10. КРИТИЧЕСКИЙ РЕАЛИЗМ В АНГЛИИ.                 ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm11,"Тема 11. РАЗВИТИЕ ЛИТЕРАТУРЫ КОНЦА XIX - НАЧАЛА ХХ ВЕКА.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm12,"Тема 12. ГИ ДЕ МОПАССАН - ПРЕДСТАВИТЕЛЬ КРИТИЧЕСКОГО РЕАЛИЗМА.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm13,"Тема 13. НАТУРАЛИЗМ ВО ФРАНЦУЗСКОЙ ЛИТЕРАТУРЕ.ЭМИЛЬ ЗОЛЯ.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.test,"Тесты                                                      ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.icon,"Глоссарий                                                  ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm1,"Тема 1. ОБЩАЯ ХАРАКТЕРИСТИКА ЛИТЕРАТУРЫ XIX ВЕКА","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema1.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm2,"Тема 2. ОСОБЕННОСТИ РАЗВИТИЯ РОМАНТИЗМА В НЕМЕЦКОЙ ЛИТЕРАТУРЕ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema2.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm3,"Тема 3. ОСОБЕННОСТИ РОМАНТИЗМА В АНГЛИЙСКОЙ ЛИТЕРАТУРЕ.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema3.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"Тема 4. ОСОБЕННОСТИ РАЗВИТИЯ ФРАНЦУЗСКОГО РОМАНТИЗМА.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema4.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm5,"Тема 5. АМЕРИКАНСКИЙ РОМАНТИЗМ.                       ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema5.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm6,"Тема 6. ФРАНЦУЗСКАЯ РЕАЛИСТИЧЕСКАЯ ЛИТЕРАТУРА XIX ВЕКА.  ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema6.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm7,"Тема 7. ТВОРЧЕСТВО ОНОРЕ ДЕ БАЛЬЗАКА.                  ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema7.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm8,"Тема 8. НЕМЕЦКАЯ ЛИТЕРАТУРА 30-40-Х ГОДОВ XIX ВЕКА.    ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema8.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm9,"Тема 9. ПУТИ РАЗВИТИЯ ФРАНЦУЗСКОЙ ЛИТЕРАТУРЫ ВО ВТОРОЙ ПОЛОВИНЕ XIX ВЕКА.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema9.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm10,"Тема 10. КРИТИЧЕСКИЙ РЕАЛИЗМ В АНГЛИИ.                 ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema10.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm11,"Тема 11. РАЗВИТИЕ ЛИТЕРАТУРЫ КОНЦА XIX - НАЧАЛА ХХ ВЕКА.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema11.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm12,"Тема 12. ГИ ДЕ МОПАССАН - ПРЕДСТАВИТЕЛЬ КРИТИЧЕСКОГО РЕАЛИЗМА.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema12.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm13,"Тема 13. НАТУРАЛИЗМ ВО ФРАНЦУЗСКОЙ ЛИТЕРАТУРЕ.ЭМИЛЬ ЗОЛЯ.","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/tema13.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.test,"Тесты                                                      ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/test.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.icon,"Глоссарий                                                  ","ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ XIX ВЕКА","https://github.com/asadbekakmedov2001/RuschaUch/raw/main/app/src/main/assets/glossary.docx"));
 
 
     }
